@@ -1,0 +1,2 @@
+# -PocketSmart-AI-Your-Smart-Budget-Recommendation-Assistant
+PocketSmart AI is a smart budget and recommendation assistant that helps users make better spending decisions. It analyzes budgets, requirements, and preferences to suggest cost-effective products and services. The system focuses on balancing price, quality, functionality, and style, helping users save money while making informed and personalized.,
